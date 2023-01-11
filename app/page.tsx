@@ -2,8 +2,8 @@ import Footer from "../components/Footer";
 
 export default function Page() {
   return (
-    <main>
-      <div className="mb-24 w-1/2">
+    <main className="p-6">
+      <div className="mb-24 lg:w-1/2">
         <h1 className="text-6xl">
           Welcome to Code Craft © Where designers learn to code.
         </h1>
